@@ -1,0 +1,1 @@
+/home/tage/.config/nvim/init.lua

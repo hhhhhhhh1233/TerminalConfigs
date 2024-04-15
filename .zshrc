@@ -1,0 +1,1 @@
+/home/tage/.zshrc
